@@ -7,7 +7,7 @@ import { useRouter } from "next/router";
 import { useConvalida } from "../hooks/convalida/useConvalida";
 import { Convalida } from "../types/Convalida";
 import axios from "axios";
-
+//prueba
 const VerConvalida: React.FC = () => {
   const {
     register,
